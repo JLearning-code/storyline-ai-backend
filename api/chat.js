@@ -2,7 +2,7 @@
 // No API keys exposed in the frontend!
 
 // Your backend URL (replace with your actual deployed URL)
-const BACKEND_URL = 'https://your-project.vercel.app/api/chat'; // Vercel example
+const BACKEND_URL = 'https://storyline-ai-backend.vercel.app/api/chat'; // Vercel example
 // const BACKEND_URL = 'https://your-site.netlify.app/.netlify/functions/chat'; // Netlify example
 
 // Main function to call AI through your secure backend
